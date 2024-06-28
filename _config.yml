@@ -3,7 +3,7 @@ title: CAMPFIRE
 subtitle: CAMPINAS
 email: contato@campfire.com.br
 description: Aqui reunimos entusiastas dessas criaturazinhas digitais
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Jhonattas Henrique Goncalves
 street_address: Praça Imprensa Fluminense - Cambui

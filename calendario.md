@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Calendario
+description: Próximos eventos disponiveis da nossa região
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,11 +13,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Calendario</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
+<h2 id="content">Próximos Eventos</h2>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -44,8 +45,8 @@ nav-menu: true
 
 <hr class="major" />
 
-<!-- Elements -->
-<h2 id="elements">Elements</h2>
+<!-- Calendario -->
+<h2 id="calendario">Calendário</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
@@ -305,7 +306,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <form method="post" action="#">
 	<div class="row uniform">
 		<div class="6u 12u$(xsmall)">
-			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Name" />
+			<input type="text" name="demo-name" id="demo-name" value="" placeholder="Nome" />
 		</div>
 		<div class="6u$ 12u$(xsmall)">
 			<input type="email" name="demo-email" id="demo-email" value="" placeholder="Email" />
