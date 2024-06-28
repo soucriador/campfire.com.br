@@ -1,6 +1,6 @@
 # site settings
 title: CAMPFIRE
-subtitle:
+subtitle: CAMPINAS
 email: contato@campfire.com.br
 description: Aqui reunimos entusiastas dessas criaturazinhas digitais
 baseurl: "/" # the subpath of your site, e.g. /blog
