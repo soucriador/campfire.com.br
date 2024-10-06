@@ -1718,6 +1718,9 @@ body {
   .main-profile .main-info {
     margin: 45px 0px;
   }
+  .main-banner {
+    min-height: auto;
+  }
 }
 
 @media (max-width: 1200px) {
@@ -1731,5 +1734,8 @@ body {
   }
   .gaming-library .item ul li {
     width: 16%;
+  }
+  .main-banner {
+    min-height: auto;
   }
 }
